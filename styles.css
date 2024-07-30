@@ -82,5 +82,43 @@ p {
     letter-spacing: 1px;
     color: #6FBF44;
     cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+    .container-laft {
+        width: 100%;
+        height: 50%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .button-header {
+        width: 91px;
+        height: 31px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+
+    }
+
+    img {
+        width: 312px;
+        height: 288px;
+        top: -965px;
+        left: 1167px;
+        
+
+    }
+
+    p {
+        width: 304px;
+        height: 165px;
+        top: -1242px;
+        left: 1171px;
+        gap: 0px;
+        opacity: 0px;
+        
+    }
+
 
 }
