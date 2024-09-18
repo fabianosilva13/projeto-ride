@@ -5,5 +5,3 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-
-<img src="https://github.com/fabianosilva13/desafio.ride/blob/main/img1/img.ride.png?raw=true">
